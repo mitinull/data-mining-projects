@@ -1,0 +1,11 @@
+.venv
+data
+outputs
+.cache
+__pycache__
+.ipynb_checkpoints
+*.pyc
+*.pyo
+*.test.py
+
+todo.md
